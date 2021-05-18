@@ -1,3 +1,5 @@
 This is sample1
 
 comparing revert and reset
+
+GIT REVERT REPO2
