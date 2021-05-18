@@ -1,3 +1,6 @@
 This is sample1
 
 Testing happening for the merge process.
+
+comparing revert and reset
+
